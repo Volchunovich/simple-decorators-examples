@@ -1,11 +1,11 @@
 {
   "name": "simple-decorators-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> Simple decorators for simple ppl",
   "author": "Artem Volchunovich",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inversify/InversifyJS.git"
+    "url": "git@github.com:Volchunovich/simple-decorators-examples.git"
   },
   "engines": {
     "node": ">= 12.13 <13"
